@@ -1,0 +1,98 @@
+*{
+  font-family: 'Creepster', cursive;
+  color:green;}
+#icons{display:block;
+padding: 40px;
+float:right;
+padding-left: 190px;}
+.title-title{
+  float: right;
+  padding: 20px;
+  margin-right: 110px;
+  color:black;}
+.title-logo{
+  margin: 20px;}
+ul {list-style-type: none;
+    margin: 0;
+    padding: 0;}
+li {display: inline;
+    padding: 20px;
+    color: green;
+    word-spacing: 1px;}
+#navigation{text-align: center;
+    padding-left: 60px;}
+#bigpicture{padding-top: 30px;
+  margin-right: 60px;
+  padding-right: 70px;}
+#feature-title{padding-bottom: 10px;
+  padding-top: 0px;}
+a{color: green;
+  text-decoration: none;}
+a:hover{color:peachpuff;
+  text-decoration: none;}
+#storepic{padding-top: 40px;
+  padding-left: 90px;}
+#npic{padding-top: 40px;
+  padding-right: 90px;}
+hr{width:1000px;
+  color:peachpuff;}
+#move{float: right;}
+.pic{float:right;
+  	width:335px;
+  	height:240px;
+  	background: url("../images/gucci9.jpg") no-repeat;
+    margin-right: 70px;}
+.pic2{float: right;
+  	width:335px;
+  	height:240px;
+  	background: url("../images/gucci9.jpg") no-repeat;
+    margin-right: 5px;}
+.pic3{float: right;
+  	width:335px;
+  	height:240px;
+  	background: url("../images/gucci9.jpg") no-repeat;
+    margin-right: 5px;}
+.w{width:335px;
+  	height:240px;
+  	background:peachpuff;
+  	opacity:0;}
+.pic:hover .w{
+  	opacity:0.5;
+  	color:black;
+    text-align: center;
+  	font-size:20px;
+  	font-weight:700;
+  	padding:30px;
+  	line-height: 300px;
+    height: 240px;}
+.pic2:hover .w{
+  	opacity:0.5;
+  	text-align:center;
+  	color:black;
+  	font-size:20px;
+  	font-weight:700;
+  	padding:30px;
+  	line-height: 200px;
+    height: 240px;}
+  .pic3:hover .w{
+  	opacity:0.5;
+  	text-align:center;
+  	color:black;
+  	font-size:20px;
+  	font-weight:700;
+  	padding:30px;
+  	line-height: 200px;
+    height: 240px;}
+#alltogether{color:black;}
+.jumbles{vertical-align: middle;
+  color: black;}
+#jumbletitle{
+  text-align: left;
+  padding-left: 80px;
+  color:black;}
+nav ul{height:500px;
+			width:85%;
+			padding: 5px;
+			list-style: none;}
+nav ul{overflow:scroll; overflow-y:scroll;
+			text-decoration: none;}
